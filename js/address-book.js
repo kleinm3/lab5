@@ -34,3 +34,9 @@ function sortObjArray(objArray, propName) {
     });
 } //sortObjArray()
 
+function render(entries) {
+    <div class="template"> 
+        empty();
+    div class=""</div>
+    <div class="address-book"> div class=""</div>
+}
